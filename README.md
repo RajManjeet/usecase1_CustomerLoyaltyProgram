@@ -24,11 +24,11 @@
 
     Danny has shared with you 3 key datasets for this case study: 
 
-     sales 
+    A) sales 
 
-     menu 
+    B) menu 
 
-     members
+    C) members
 # **Entity Relationship Diagram**
 
 <img width="518" alt="Entity_Relationship_Diagram" src="https://user-images.githubusercontent.com/100192227/155489740-32d2f980-cbdd-4831-acb4-73a224a36c5d.png">
